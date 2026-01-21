@@ -38,7 +38,7 @@ Embedding → SimpleRNN → Dropout → Dense (Softmax)
 
 ## 📊 Dataset Information
 
-* **Source:** Kaggle – Language Detection Dataset
+* **Source:** Kaggle – [Language Detection Dataset](https://www.kaggle.com/datasets/basilb2s/language-detection)
 * **Total Languages:** 17
 * **Total Samples:** 10,267
 * **Columns:**
